@@ -224,7 +224,8 @@ plt.show()
 1.Read 'Eagle_in_Flight.jpg' as grayscale and display:
 
 
-![Screenshot 2025-03-09 154231](https://github.com/user-attachments/assets/31689cac-7a79-459c-9940-0adc26441782)
+<img width="532" height="439" alt="Screenshot 2026-05-19 171321" src="https://github.com/user-attachments/assets/21727240-abb4-48db-b465-03690053929c" />
+
 
 
 
@@ -237,7 +238,8 @@ plt.show()
 
 
  
-  ![image](https://github.com/user-attachments/assets/f17ba18b-7549-45e8-80a4-8568b81b718b)
+  <img width="562" height="430" alt="image" src="https://github.com/user-attachments/assets/c5bb7275-a47a-4802-a3f5-41d44e909bf2" />
+
 
 
 
@@ -252,7 +254,8 @@ plt.show()
 
 
   
-  ![image](https://github.com/user-attachments/assets/ebd99581-276e-47f9-af37-c99423e803bc)
+  <img width="314" height="414" alt="Screenshot 2026-05-19 171335" src="https://github.com/user-attachments/assets/75d8feee-ef14-4340-8cc7-b555a4d6d24c" />
+
 
 
 
@@ -265,7 +268,8 @@ plt.show()
 
 
   
-  ![image](https://github.com/user-attachments/assets/92cb7462-a2fd-4ba3-bf89-02785b629e1d)
+  <img width="391" height="408" alt="Screenshot 2026-05-19 171343" src="https://github.com/user-attachments/assets/fe1da57f-96ad-486c-86f6-004e2954b4b9" />
+
 
 
 
@@ -277,7 +281,8 @@ plt.show()
 
 
 
-![Screenshot 2025-03-11 082700](https://github.com/user-attachments/assets/564d076b-ed47-4903-8afe-52dc989b0800)
+<img width="549" height="342" alt="Screenshot 2026-05-19 171356" src="https://github.com/user-attachments/assets/73405569-6516-4127-9e2d-1bb7a6872d16" />
+
 
 
 
@@ -292,7 +297,8 @@ plt.show()
 
 
 
-<img width="824" height="427" alt="image" src="https://github.com/user-attachments/assets/9a6fbbf9-ef86-4d59-8c44-96c5b25724fd" />
+<img width="781" height="426" alt="Screenshot 2026-05-19 171404" src="https://github.com/user-attachments/assets/d104157b-ca57-4290-96e3-01443d606aec" />
+
 
 
 
@@ -303,7 +309,8 @@ plt.show()
 1.Modify contrast using scaling factors 1.1 and 1.2
 
  
-<img width="861" height="431" alt="image" src="https://github.com/user-attachments/assets/cba445db-1612-4bca-820c-4949d1f7f504" />
+<img width="787" height="429" alt="Screenshot 2026-05-19 171414" src="https://github.com/user-attachments/assets/b5d8f60f-2946-4487-a75f-c83520b9be61" />
+
 
  
 
@@ -315,7 +322,7 @@ plt.show()
 
 
 
-<img width="842" height="427" alt="image" src="https://github.com/user-attachments/assets/a4e23986-c424-4bc6-b0b1-6ea868d0e6ab" />
+<img width="783" height="432" alt="Screenshot 2026-05-19 171423" src="https://github.com/user-attachments/assets/9bb26b29-f96c-49dc-b5c7-ef04a762b95d" />
 
 
 
@@ -324,8 +331,7 @@ plt.show()
 
 
 
-<img width="281" height="433" alt="image" src="https://github.com/user-attachments/assets/93a74e1f-58fe-440b-a83b-2b2d9d2b882b" />
-
+<img width="237" height="430" alt="Screenshot 2026-05-19 171432" src="https://github.com/user-attachments/assets/26e7442f-875c-4238-a663-e1cc12e14341" />
 
 
 
@@ -337,7 +343,8 @@ plt.show()
 
 
 
-<img width="814" height="431" alt="image" src="https://github.com/user-attachments/assets/0d1cc8ab-3943-4c8a-9826-00564994f2ec" />
+<img width="783" height="424" alt="Screenshot 2026-05-19 171442" src="https://github.com/user-attachments/assets/c5fcd0a0-e622-4518-8a97-0f60023560fc" />
+
 
 
 
@@ -348,7 +355,8 @@ plt.show()
 
 
 
-<img width="510" height="433" alt="image" src="https://github.com/user-attachments/assets/dc63bce5-0ffa-4890-8f42-a599c38250ca" />
+<img width="455" height="428" alt="Screenshot 2026-05-19 171450" src="https://github.com/user-attachments/assets/d78bb6f2-f067-4a5e-84dc-38004b94edf5" />
+
 
 
 
